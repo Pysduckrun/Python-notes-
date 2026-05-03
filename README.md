@@ -1,1 +1,1 @@
-# python-for-ai-notes
+# python-notes

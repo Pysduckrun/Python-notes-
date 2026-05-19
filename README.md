@@ -19,6 +19,7 @@ This repository contains my structured notes while learning Python, primarily us
 - **[File and execption handling !!](https://github.com/Pysduckrun/Python-notes-/tree/main/File%20and%20execption%20handling%20!!)** — Notes and examples on file operations as well as exception handling.
 - **[Numpy](https://github.com/Pysduckrun/Python-notes-/tree/main/Numpy)** — Numpy library notes, examples, and exercises.
 - **[OOPs](https://github.com/Pysduckrun/Python-notes-/tree/main/OOPs)** — Object Oriented Programming concepts in Python.
+- **[Pandas](https://github.com/Pysduckrun/Python-notes-/tree/main/Pandas)** — Pandas library notes, data manipulation, and analysis.
 
 ---
 
@@ -33,6 +34,7 @@ This repository contains my structured notes while learning Python, primarily us
 - Exception Handling
 - Numpy basics & advanced operations
 - Object Oriented Programming (OOP)
+- Pandas: DataFrames, Series, data manipulation and analysis
 - Basic Problem Solving
 
 ---
@@ -51,6 +53,7 @@ This repository contains my structured notes while learning Python, primarily us
 - [x] File & Exception Handling
 - [x] Numpy
 - [x] OOP
+- [x] Pandas
 - [ ] Advanced Python (upcoming)
 
 ---
